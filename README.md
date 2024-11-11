@@ -1,1 +1,2 @@
-# ThGameMgr.Ex.AutoThpracSelector
+# AutoThpracSelector
+thprac の実行ファイルが複数存在する場合、その中から最新版のものを自動的に選択して適用する東方管制塔 EX 向けプラグインです。
