@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows10.0.22000.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <SupportedOSPlatformVersion>10.0.17763.0</SupportedOSPlatformVersion>
+    <Authors>珠音茉白/東方管制塔開発部</Authors>
+    <Product>AutoThpracSelector</Product>
+    <Copyright>Copyright © 2024 $(Authors)</Copyright>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <FileVersion>1.0.0</FileVersion>
+	  <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ThGameMgr.Ex.Plugin">
+      <HintPath>bin\Debug\net8.0-windows10.0.22000.0\ThGameMgr.Ex.Plugin.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

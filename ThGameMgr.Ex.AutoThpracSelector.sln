@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThGameMgr.Ex.AutoThpracSelector", "ThGameMgr.Ex.AutoThpracSelector\ThGameMgr.Ex.AutoThpracSelector.csproj", "{12241314-358A-481F-BE3C-4DA0566A2032}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D78EB5B-1C29-473E-A3B9-10F18ED4BCD7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12241314-358A-481F-BE3C-4DA0566A2032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12241314-358A-481F-BE3C-4DA0566A2032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12241314-358A-481F-BE3C-4DA0566A2032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12241314-358A-481F-BE3C-4DA0566A2032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26944067-3914-4B51-8C9D-3A37AF64226A}
+	EndGlobalSection
+EndGlobal
